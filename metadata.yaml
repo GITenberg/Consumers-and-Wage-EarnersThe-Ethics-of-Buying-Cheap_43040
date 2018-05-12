@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41996'
     url: http://www.gutenberg.org/2009/agents/41996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43040#Consumers-and-Wage-EarnersThe-Ethics-of-Buying-Cheap
 gutenberg_issued: '2013-06-26'
 gutenberg_type: Text
 identifiers:
